@@ -1,5 +1,7 @@
 # rickrollrc
 
+THIS FORK IS ONLY FOR ME, PLEASE VISIT [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc) <3
+
 Bash script which [rickrolls](http://en.wikipedia.org/wiki/Rickrolling) your
 terminal by playing Rick Astley’s “Never Gonna Give You Up” with ANSI 256-color
 coded UTF-8 characters + audio (if available).
