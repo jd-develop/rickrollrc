@@ -28,7 +28,7 @@ Nevertheless, for the enhanced experience, I highly recommend the following:
 
 Which essentially just does:
 
-    echo "curl -s -L http://bit.ly/10hA8iC | bash" >> ~/.bashrc
+    echo "curl -s -L https://tinyurl.com/jaimelespatates1 | bash" >> ~/.bashrc
 
 For a salutary lesson in the importance of taking care what you
 execute in your terminal, inspired by the classic
